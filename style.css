@@ -1,0 +1,25 @@
+body{
+    background-color: lightseagreen;
+    color: black;
+}
+.heading{
+    font-size: 25px;
+    width: 50%;
+}
+.name_of_objects{
+    font-size: 20;
+}
+#camera{
+    border: 2px dashed green;
+    width:200px;
+    height:200px;
+}
+#result_object{
+    color:green;
+}
+#result_accuracy{
+    color: green;
+}
+hr{
+    width:50%;
+}
